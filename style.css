@@ -1,0 +1,50 @@
+
+.carousel{
+    background: #feeae9;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.bg{
+    background: #ff3c89;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    border: none;
+}
+.price{
+    color: #ff3c89;
+}
+.categories-bg-Watch{
+    background: #ffa500;
+    height: 120px;
+}
+.categories-bg-Watch img{
+ height: 100px;
+}
+.categories-bg-bag{
+    background: #da70d6;
+    height: 120px;
+}
+.categories-bg-bag img{
+    height: 100px;
+}
+.categories-bg-shoes{
+    background:#0000ff ;
+    height: 120px;
+}
+.categories-bg-shoes img{
+    height: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe{
+    background-color: #fceae8;
+    height: 300px;
+}
+.bg-subscribe{
+    margin-top: 10px;
+}
